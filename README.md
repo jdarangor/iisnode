@@ -1,5 +1,6 @@
 Hosting node.js applications in IIS on Windows
 ===
+Other important link: JDA Additiona information Nodejs in IIS here: https://www.hanselman.com/blog/InstallingAndRunningNodejsApplicationsWithinIISOnWindowsAreYouMad.aspx
 
 **Branches**
 
