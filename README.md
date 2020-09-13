@@ -32,7 +32,7 @@ Other important link: JDA Additiona information Nodejs in IIS here: https://www.
 
 **Installing for IIS 7.x/8.x**
 
-- Install iisnode for IIS 7.x/8.x: [x86](https://github.com/azure/iisnode/releases/download/v0.2.21/iisnode-full-v0.2.21-x86.msi) or [x64](https://github.com/azure/iisnode/releases/download/v0.2.21/iisnode-full-v0.2.21-x64.msi) - choose bitness matching your system
+- Install iisnode for IIS 7.x/8.x: [x86](https://github.com/jdarangor/iisnode/releases/download/v0.2.21/iisnode-full-v0.2.21-x86.msi) or [x64](https://github.com/jdarangor/iisnode/releases/download/v0.2.21/iisnode-full-v0.2.21-x64.msi) - choose bitness matching your system
 - To set up samples, from the administrative command prompt call `%programfiles%\iisnode\setupsamples.bat`
 - Go to `http://localhost/node`
 
@@ -45,7 +45,7 @@ Other important link: JDA Additiona information Nodejs in IIS here: https://www.
 **Installing for IIS Express 8 on Windows x64**
 This can be a head-scratcher since IIS Express 8 gives you both 32-bit and 64-bit versions (http://www.iis.net/learn/extensions/introduction-to-iis-express/iis-80-express-readme). You can either:
 - Install the full x64 version, then in Visual Studio go to Tools > Options > Projects and Solutions > Web Projects > Use the 64 bit version of IIS Express. This way you have a single install for both IIS and IIS Express.
-- Separately install iisnode express version (https://github.com/azure/iisnode/wiki/iisnode-releases).
+- Separately install iisnode express version (https://github.com/jdarangor/iisnode/wiki/iisnode-releases).
 
 
 **Howtos**
